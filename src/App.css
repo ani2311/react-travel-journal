@@ -29,15 +29,6 @@ body {
   box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
 }
 
-.content {
-  width: 550px;
-  background-color: white;
-  max-height: 80vh;
-  border-radius: 10px;
-  overflow: scroll;
-  position: relative;
-  box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
-}
 
 .nav {
   background: #445472;
